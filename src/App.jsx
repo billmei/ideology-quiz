@@ -274,7 +274,7 @@ const Quiz = () => {
 // App component
 const App = () => {
   return (
-    <div className="min-h-screen bg-gray-50 py-8">
+    <div className="min-h-screen bg-gray-50 py-8 w-screen">
       <div className="max-w-3xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
         <div className="p-6 border-b">
           <h1 className="text-2xl font-bold text-center">
